@@ -1,0 +1,56 @@
+[
+  {
+    "id": "prod_101",
+    "name": "Wireless Noise-Canceling Headphones",
+    "category": "Electronics",
+    "price": 2999,
+    "stock": 15,
+    "rating": 4.6,
+    "createdAt": "2026-03-01T10:00:00.000Z"
+  },
+  {
+    "id": "prod_102",
+    "name": "Mechanical Gaming Keyboard RGB",
+    "category": "Electronics",
+    "price": 1899,
+    "stock": 25,
+    "rating": 4.8,
+    "createdAt": "2026-03-02T11:15:00.000Z"
+  },
+  {
+    "id": "prod_103",
+    "name": "Ergonomic Office Chair with Lumbar Support",
+    "category": "Furniture",
+    "price": 7499,
+    "stock": 8,
+    "rating": 4.5,
+    "createdAt": "2026-03-03T14:30:00.000Z"
+  },
+  {
+    "id": "prod_104",
+    "name": "Running Shoes Breathable Mesh",
+    "category": "Footwear",
+    "price": 2499,
+    "stock": 12,
+    "rating": 4.3,
+    "createdAt": "2026-03-04T09:00:00.000Z"
+  },
+  {
+    "id": "prod_105",
+    "name": "Stainless Steel Thermal Water Bottle 1L",
+    "category": "Accessories",
+    "price": 699,
+    "stock": 40,
+    "rating": 4.7,
+    "createdAt": "2026-03-05T16:20:00.000Z"
+  },
+  {
+    "id": "prod_106",
+    "name": "Smart Fitness Band with Heart Rate Monitor",
+    "category": "Electronics",
+    "price": 1499,
+    "stock": 20,
+    "rating": 4.2,
+    "createdAt": "2026-03-06T12:00:00.000Z"
+  }
+]
